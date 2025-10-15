@@ -4,3 +4,4 @@ HWID_FZ8MA6XhpHAMYqGFQtmYb57D4bATnqTL4g8BBh6s_END:2025-10-15 <- покупате
 HWID_GDLhSsIVWfoyKIahiCfCr2pXzaGZ6ldoWaXRuzFD5w_END:2030-12-12 <- покупатель --@r3sumeload1ng(LT)--
 HWID_gr8ZWOS5sgrEUB2Q7jbHcpdNIOSPTvNZW53HAILUIgo_END:2030-12-12 <- покупатель --@MegoCat(LT)--
 HWID_MtpUGdZozSveiXikOoREki3IAFptHah5FEh1rlrhI_END:2025-12-03 <- Winner --@St0pWorld--
+HWID_eojQoyDLttJqSuSN6Y06TF47UFCDitoHKHig420_END:2025-10-25 <- Winner --@ton11l11--
