@@ -5,3 +5,4 @@ HWID_GDLhSsIVWfoyKIahiCfCr2pXzaGZ6ldoWaXRuzFD5w_END:2030-12-12 <- покупат
 HWID_gr8ZWOS5sgrEUB2Q7jbHcpdNIOSPTvNZW53HAILUIgo_END:2030-12-12 <- покупатель --@MegoCat(LT)--
 HWID_MtpUGdZozSveiXikOoREki3IAFptHah5FEh1rlrhI_END:2025-12-03 <- Winner --@St0pWorld--
 HWID_eojQoyDLttJqSuSN6Y06TF47UFCDitoHKHig420_END:2025-10-25 <- Winner --@ton11l11--
+HWID_K1eGM6jrhXczJ5ATotlOJucBS0HWHjjI1rs2C5N64_END:2222-01-01 <- покупалель --FarestCold(FP)(LT)--
